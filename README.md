@@ -1,8 +1,8 @@
-## NSE - Securities in Futures and Options Analysis
+## NSE - Securities in Futures and Options (FO) Analyzer
 <img width="928" alt="Screenshot 2024-08-01 at 11 00 21 AM" src="https://github.com/user-attachments/assets/e685bca7-75ec-4fbe-a7f6-24d55d6704fe">
 
 
-Welcome to the NSE Securities in Futures and Options Analysis project! This project provides a comprehensive data analysis platform for stocks listed in the Futures and Options (F&O) segment of the National Stock Exchange (NSE) of India. It leverages Streamlit for a user-friendly web interface, fetches live data periodically, and provides analysis based on custom metrics.
+Welcome to the NSE Securities in Futures and Options Analyzer project! This project provides a comprehensive data analysis platform for stocks listed in the Futures and Options (F&O) segment of the National Stock Exchange (NSE) of India. It leverages Streamlit for a user-friendly web interface, fetches live data periodically, and provides analysis based on custom metrics.
 
 ### Table of Contents
 
@@ -19,7 +19,7 @@ Welcome to the NSE Securities in Futures and Options Analysis project! This proj
 8. [Future Enhancements](#future-enhancements)
 9. [Contributing](#contributing)
 10. [License](#license)
-11. [Acknowledgments](#acknowledgments)
+11. [Contact Us](#get-in-touch-with-us)
 
 ## Overview
 
@@ -34,7 +34,7 @@ This project aims to provide real-time and historical analysis of stocks in the 
 
 ## Installation
 
-### Prerequisites
+### Before you begin
 
 Ensure you have the following installed:
 - Python 3.7+
@@ -44,7 +44,7 @@ Ensure you have the following installed:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/nse-fo-analysis.git
+   git clone https://github.com/opensourceops/nse-stock-fo-analyzer.git
    cd nse-fo-analysis
    ```
 
@@ -108,16 +108,12 @@ You can customize the data processing logic by modifying the `StockDataProcessor
 We welcome contributions! Please follow these steps:
 1. Fork the repository.
 2. Create a new feature branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
+3. Commit your changes (`git add CHANGED_FILE && git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
+## License
+MIT License
 
-
-## Acknowledgments
-
-Special thanks to the contributors and the open-source community for their invaluable support and tools.
-
----
-
-*This README file provides a comprehensive guide to the project. For more information, visit the [official documentation](https://github.com/yourusername/nse-fo-analysis).*
+## Get in touch with us❤
+Join our Discord server: click this [invite link](https://discord.gg/cRzbySgxGT).
